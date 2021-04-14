@@ -52,7 +52,7 @@ nav .logo{
     font-family: Arial;
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
+    font-size: 26px;
     text-decoration: none;
     color: #000000;
 }
@@ -105,9 +105,7 @@ font-style: normal;
 font-weight: lighter;
 font-size: 24px;
 color: #EE283C;
-
 }
-
 
 .social-icons {
     display: flex;
@@ -135,6 +133,51 @@ header .hero-image {
     .header-container{
         padding-left: 5%;
         padding-right: 5%;
+    }
+    
+    .body{
+        overflow: hidden;
+    }
+
+    .hero-content h1{
+        font-size: 48px;
+    }
+
+    .hero-content a{
+        font-size: 32px;
+    }
+
+    .nav-items li {
+        margin-right: 24px;
+        margin-top: 16px;
+    }
+
+    .wrapper {
+        width:fit-content;
+    }
+
+    .header-container p{
+        line-height: 28px;
+    }
+
+    .header-container h1{
+        line-height: 50px;
+    }
+
+    .header-container a{
+        font-size: 24px;
+    }
+
+    .nav-items li a{
+        font-size: 18px;
+    }
+
+    header h1{
+        margin-top: 120px;
+    }
+
+    header a {
+        margin-bottom: 96px;
     }
 
 }
