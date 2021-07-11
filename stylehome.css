@@ -93,7 +93,7 @@ header p{
 font-family: Arial;
 font-style: normal;
 font-weight: bold;
-font-size: 28px;
+font-size: 24px;
 line-height: 28px;
 display: flex;
 align-items: flex-end;
@@ -104,7 +104,7 @@ margin-bottom: 56px;
 
 header a {
 color: #ffffff;
-font-size: 28px;
+font-size: 24px;
 text-decoration: none;
 background: #EE283C;
 border-radius: 28px;
